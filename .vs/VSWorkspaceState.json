@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config",
     "\\include"
   ],
-  "SelectedNode": "\\include\\header.php",
+  "SelectedNode": "\\reviews.php",
   "PreviewInSolutionExplorer": false
 }
